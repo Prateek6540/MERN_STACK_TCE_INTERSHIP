@@ -1,0 +1,5 @@
+>node js is the runtime enviroment of the java script code outside the browser.
+>READ get api
+>Post create api
+patch update
+delete delete api
