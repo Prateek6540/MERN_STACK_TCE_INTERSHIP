@@ -5,8 +5,8 @@ const StudentController=require("../Controllers/studentController")
 
 router.post("/register",StudentController.createStudent);
 
-const CourseController=require("../Controllers/courseController")
-router.post("/course",StudentController.createStudent);
+// const CourseController=require("../Controllers/courseController")
+// router.post("/course",StudentController.createStudent);
 
 
 module.exports=router;
